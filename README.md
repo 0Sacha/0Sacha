@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sacha Laville
+# Hi 👋,
 
 - 🔭 I'm currently working on **a Mobile App project for my BTS SIO**
 
