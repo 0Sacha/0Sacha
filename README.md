@@ -1,3 +1,5 @@
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=0Sacha&theme=dark&hide_border=true&background=0D1117" alt="0Sacha" /></p>
+
 # Hi 👋, I'm Sacha Laville
 
 - 🔭 I'm currently working on **a Mobile App project for my BTS SIO**
@@ -46,6 +48,3 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="spring" width="40" height="40"/> </a>
 </p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=0Sacha&theme=dark&hide_border=true&background=0D1117" alt="0Sacha" /></p>
-
