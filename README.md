@@ -46,5 +46,3 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="spring" width="40" height="40"/> </a>
 </p>
-<br>
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=0Sacha&theme=highcontrast&hide_border=true&background=0D1117&hide_current_streak=true&hide_longest_streak=true" /></p>
