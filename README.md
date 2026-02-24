@@ -47,5 +47,5 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="spring" width="40" height="40"/> </a>
 </p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0Sacha&" alt="0Sacha" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=0Sacha&theme=dark&hide_border=true" alt="0Sacha" /></p>
 
