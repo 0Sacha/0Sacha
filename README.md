@@ -1,9 +1,3 @@
-# Hi 👋,
-
-- 🌱 I'm currently learning **React Native**
-
-- 💬 Ask me about **for project of web app (with js, reactjs, HTML, and SCSS)**
-
-- 📫 How to reach me **sacha.laville.pro@gmail.com**
+# Hello 👋,
 
 - 👨‍💻 All of my projects are available at **[https://sachalaville.fr/](https://sachalaville.fr/)**
