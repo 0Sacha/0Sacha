@@ -18,8 +18,8 @@
 
 ## 📊 Stats GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=0Sacha&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Sacha&layout=compact&theme=dark)
+![Stats](https://github-stats-extended.vercel.app/api?username=0Sacha&show_icons=true&theme=dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=0Sacha&layout=compact&theme=dark)
 
 ## 📫 Me contacter
 
