@@ -13,14 +13,12 @@
 ## 🛠️ Stack technique
 
 **Langages :** React · JavaScript · HTML/CSS/SCSS<br>
-**Frameworks et outils :** React Native · **
+**Frameworks et outils :**React Native**
 
 ## 📊 Statistiques GitHub
 
 <table>
   <tr>
-    <td><a href="https://github-stats-extended.vercel.app/api?username=0Sacha"><img src="https://github-stats-extended.vercel.app/api?username=0Sacha&show_icons=true&theme=dark&hide_border=true&locale=fr&card_width=420" /></a></</td>
-    <td><a href="https://github-stats-extended.vercel.app/api/top-langs?username=0Sacha"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=0Sacha&layout=compact&theme=dark&hide_border=true&locale=fr&card_width=280&langs_count=6" /></a></</td>
     <td><a href="https://streak-stats.demolab.com/?user=0Sacha"><img src="https://streak-stats.demolab.com/?user=0Sacha&theme=dark&hide_border=true&locale=fr&card_width=300" /></a></</td>
   </tr>
 </table>
