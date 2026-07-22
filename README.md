@@ -1,6 +1,6 @@
 # Hello, je suis Sacha 👋
 
-🎓 Étudiant en BTS SIO, passionné de développement web et mobile<br>
+💻 Développeur passionné, actuellement à la recherche d'opportunités<br>
 📍 Basé en France<br>
 🌐 Portfolio : https://sachalaville.fr/
 
