@@ -14,13 +14,15 @@
 ## 🛠️ Stack technique
 
 **Langages :** Java · JavaScript · TypeScript · Python · HTML/CSS<br>
-**Frameworks & outils :** React Native · Angular · Three.js · JavaFX · Node.js
+**Frameworks et outils :** React Native · Angular · Three.js · JavaFX · Node.js
 
-## 📊 Stats GitHub
+## 📊 Statistiques GitHub
 
-![Stats](https://github-stats-extended.vercel.app/api?username=0Sacha&show_icons=true&theme=dark)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=0Sacha&layout=compact&theme=dark)
+<a href="https://github-stats-extended.vercel.app/api?username=0Sacha"><img height="180" src="https://github-stats-extended.vercel.app/api?username=0Sacha&show_icons=true&theme=dark&hide_border=true&locale=fr" /></a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=0Sacha"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0Sacha&layout=compact&theme=dark&hide_border=true&locale=fr" /></a>
 
 ## 📫 Me contacter
 
-[🌐 Site web](https://sachalaville.fr/)
+[![Aperçu du portfolio](https://api.microlink.io/?url=https://sachalaville.fr&screenshot=true&meta=false&embed=screenshot.url)](https://sachalaville.fr/)
+
+**[🌐 Portfolio](https://sachalaville.fr/)**
