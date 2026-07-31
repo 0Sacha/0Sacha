@@ -13,7 +13,7 @@
 ## 🛠️ Stack technique
 
 **Langages :** React · JavaScript · HTML/CSS/SCSS<br>
-**Frameworks et outils :**React Native
+**Frameworks et outils :** React Native
 
 ## 📊 Statistiques GitHub
 
